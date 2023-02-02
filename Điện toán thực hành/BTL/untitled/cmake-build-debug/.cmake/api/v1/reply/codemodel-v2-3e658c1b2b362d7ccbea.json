@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "untitled",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "untitled::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untitled-Debug-c4692fae2c053a739443.json",
+					"name" : "untitled",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/tuananh/Desktop/T\u00e0i li\u1ec7u B\u00e1ch Khoa/C++/\u0110i\u1ec7n to\u00e1n th\u1ef1c h\u00e0nh/BTL/untitled/cmake-build-debug",
+		"source" : "/Users/tuananh/Desktop/T\u00e0i li\u1ec7u B\u00e1ch Khoa/C++/\u0110i\u1ec7n to\u00e1n th\u1ef1c h\u00e0nh/BTL/untitled"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

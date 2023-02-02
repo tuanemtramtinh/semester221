@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RomantoInteg",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RomantoInteg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RomantoInteg-Debug-a4788b2244078af38f5a.json",
+					"name" : "RomantoInteg",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/tuananh/Desktop/T\u00e0i li\u1ec7u B\u00e1ch Khoa/C++/B\u00e0i t\u1ef1 l\u00e0m th\u00eam/RomantoInteg\u1ebb/cmake-build-debug",
+		"source" : "/Users/tuananh/Desktop/T\u00e0i li\u1ec7u B\u00e1ch Khoa/C++/B\u00e0i t\u1ef1 l\u00e0m th\u00eam/RomantoInteg\u1ebb"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

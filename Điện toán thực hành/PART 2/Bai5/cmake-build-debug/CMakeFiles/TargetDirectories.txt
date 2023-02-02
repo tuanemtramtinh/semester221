@@ -1,0 +1,3 @@
+/Users/tuananh/Desktop/C++/Điện toán thực hành/Bai5/cmake-build-debug/CMakeFiles/Bai5.dir
+/Users/tuananh/Desktop/C++/Điện toán thực hành/Bai5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tuananh/Desktop/C++/Điện toán thực hành/Bai5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

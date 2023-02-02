@@ -1,0 +1,15 @@
+# ninja log v5
+0	484	1672709798799347965	CMakeFiles/electronicScreen.dir/main.cpp.o	2110e8093172e90
+485	518	1672709798835767695	electronicScreen	bfa7b79ac08b9de5
+2	615	1672709860282546016	CMakeFiles/electronicScreen.dir/main.cpp.o	2110e8093172e90
+615	667	1672709860338716494	electronicScreen	bfa7b79ac08b9de5
+2	554	1672709995669193254	CMakeFiles/electronicScreen.dir/main.cpp.o	2110e8093172e90
+554	605	1672709995722156760	electronicScreen	bfa7b79ac08b9de5
+2	575	1672710076689715794	CMakeFiles/electronicScreen.dir/main.cpp.o	2110e8093172e90
+575	622	1672710076739691074	electronicScreen	bfa7b79ac08b9de5
+12	671	1672710549979030119	CMakeFiles/electronicScreen.dir/main.cpp.o	2110e8093172e90
+671	732	1672710550043105612	electronicScreen	bfa7b79ac08b9de5
+12	646	1672711522174491981	CMakeFiles/electronicScreen.dir/main.cpp.o	2110e8093172e90
+646	697	1672711522229758288	electronicScreen	bfa7b79ac08b9de5
+2	582	1672711580814216762	CMakeFiles/electronicScreen.dir/main.cpp.o	2110e8093172e90
+582	632	1672711580867614157	electronicScreen	bfa7b79ac08b9de5

@@ -1,0 +1,3 @@
+/Users/tuananh/CLionProjects/bai4/cmake-build-debug/CMakeFiles/bai4.dir
+/Users/tuananh/CLionProjects/bai4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tuananh/CLionProjects/bai4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

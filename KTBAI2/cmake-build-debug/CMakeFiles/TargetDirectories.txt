@@ -1,0 +1,3 @@
+/Users/tuananh/Desktop/C++/KTBAI2/cmake-build-debug/CMakeFiles/KTBAI2.dir
+/Users/tuananh/Desktop/C++/KTBAI2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tuananh/Desktop/C++/KTBAI2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

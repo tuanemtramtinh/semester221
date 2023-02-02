@@ -1,0 +1,3 @@
+/Users/tuananh/Desktop/Tài liệu Bách Khoa/C++/Điện toán thực hành/BTL/Btl/cmake-build-debug/CMakeFiles/Btl.dir
+/Users/tuananh/Desktop/Tài liệu Bách Khoa/C++/Điện toán thực hành/BTL/Btl/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tuananh/Desktop/Tài liệu Bách Khoa/C++/Điện toán thực hành/BTL/Btl/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/tuananh/Desktop/Tài liệu Bách Khoa/C++/Bài tự làm thêm/RomantoIntegẻ/cmake-build-debug/CMakeFiles/RomantoInteg.dir
+/Users/tuananh/Desktop/Tài liệu Bách Khoa/C++/Bài tự làm thêm/RomantoIntegẻ/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tuananh/Desktop/Tài liệu Bách Khoa/C++/Bài tự làm thêm/RomantoIntegẻ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
